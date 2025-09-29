@@ -1,0 +1,48 @@
+.job-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: box-shadow 0.2s ease-in-out;
+}
+.job-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.job-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.job-card-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+.company-name {
+  font-weight: bold;
+  color: #555;
+  margin: 8px 0;
+}
+.job-location {
+  color: #777;
+}
+.job-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+  font-size: 0.9rem;
+  color: #555;
+}
+.bookmark-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #f0c419;
+}
+.bookmark-btn.bookmarked {
+    color: #f0c419;
+}

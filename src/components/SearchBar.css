@@ -1,0 +1,17 @@
+.search-bar-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+.search-input, .sort-select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+.search-input {
+  flex-grow: 1; /* Makes the keyword search input take more space */
+}

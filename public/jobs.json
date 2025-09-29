@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "company": "InnovateTech",
+    "title": "Frontend Developer",
+    "location": "New Delhi, IN",
+    "salary": 110000,
+    "postedDate": "2025-09-29"
+  },
+  {
+    "id": 2,
+    "company": "DataSolutions",
+    "title": "Backend Engineer",
+    "location": "San Francisco, CA",
+    "salary": 130000,
+    "postedDate": "2025-09-28"
+  },
+  {
+    "id": 3,
+    "company": "InnovateTech",
+    "title": "Full Stack Developer",
+    "location": "Remote",
+    "salary": 125000,
+    "postedDate": "2025-09-27"
+  },
+  {
+    "id": 4,
+    "company": "SecureNet",
+    "title": "DevOps Engineer",
+    "location": "Banglore, IN",
+    "salary": 115000,
+    "postedDate": "2025-09-29"
+  },
+  {
+    "id": 5,
+    "company": "DataSolutions",
+    "title": "Data Scientist",
+    "location": "New York, NY",
+    "salary": 140000,
+    "postedDate": "2025-09-26"
+  },
+  {
+    "id": 6,
+    "company": "HealthWell",
+    "title": "React Native Developer",
+    "location": "Remote",
+    "salary": 120000,
+    "postedDate": "2025-09-28"
+  }
+]
