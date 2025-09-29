@@ -5,9 +5,11 @@ Live Demo
 A responsive job board application built with React and Redux Toolkit. This project allows users to search, filter, and sort through job listings, demonstrating a practical application of complex state management in a modern frontend architecture.
 
 📸 Screenshots
-<img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e83de892-0246-4b36-800c-c2e0aa682ed4" />
-<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/db8f2bc8-91dd-48b9-9a2b-93062d10b07b" />
-<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/d861eb7a-314e-447f-b903-4871528c0f98" />
+<img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/fe1d253b-81c0-452f-b18f-f4fd0ec49a92" />
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/04c1731b-b8ec-4e15-ad69-5b850028bd84" />
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/475cccc3-8901-4594-893d-54af15004fe8" />
+
+
 
 ✨ Features :-
 
