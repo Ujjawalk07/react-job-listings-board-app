@@ -1,6 +1,7 @@
 Job Board Feed 📋
 
 Live Demo
+https://resplendent-cascaron-3f938f.netlify.app
 
 A responsive job board application built with React and Redux Toolkit. This project allows users to search, filter, and sort through job listings, demonstrating a practical application of complex state management in a modern frontend architecture.
 
